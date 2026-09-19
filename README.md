@@ -1,4 +1,3 @@
-# 👋 Halo, saya nezXproject!
 
 <div align="center">
 

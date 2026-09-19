@@ -1,23 +1,64 @@
-# Hi Twin 👋, I'm nezX karbohidrat
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=NarzX&fontSize=42&fontColor=ffffff&desc=Leveling%20up%20code%2C%20logic%2C%20and%20developer%20gains%20daily.&descSize=18&descAlign=50&descAlignY=58)
+<div align="center">
 
-### A passionate Python developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Crafting%20clean%20code%20daily;Python%20and%20JavaScript%20builder;Chasing%20peak%20software%20performance)](https://git.io/typing-svg)
 
-- 🌱 I'm currently learning **Python,PHP, and JS**
+</div>
+<div align="center">
 
-- 👯 I'm looking to collaborate on **Open source project**
+![Profile Views](https://komarev.com/ghpvc/?username=nezXproject&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-- 💬 Ask me about **Python,Tools Hacking github**
+</div>
+## ⚡ About Me
+- I am NarzX, an ambitious developer focused on continuous improvement.
+- I write practical software using Python, JavaScript, and PHP.
+- My journey is all about turning ambitious ideas into solid code.
+## 🚀 What I'm Up To
 
-- 📫 How to reach me **info@kknarzx.linkpc.net**
+- Currently sharpening full-stack coding fundamentals
+- Ask me about Python, JavaScript, or PHP
+- Focused on building clean, high-impact projects
 
-- ⚡ Fun fact **i want to be a chad**
+## 🛠️ Tech Arsenal
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/nezXproject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nezXproject" height="30" width="40" /></a>
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JS-555?style=for-the-badge) ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-</p>
+</div>
+## 📊 GitHub Analytics
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+![nezXproject's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezXproject&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezXproject&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nezXproject&theme=tokyonight&hide_border=true)
+
+</div>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nezXproject&theme=tokyo-night&hide_border=true&area=true)](https://github.com/nezXproject)
+
+</div>
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nezXproject&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+
+</div>
+## 🤝 Connect & Support
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kknarzx.linkpc.net)
+
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CFF&height=120&section=footer&text=&fontSize=42)
+
+<div align="center">
+
+[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
+
+</div>
